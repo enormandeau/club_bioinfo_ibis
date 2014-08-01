@@ -16,6 +16,7 @@
 - Créer site web (ou juste un repo Git?)
 - Décider horaire
 - Réserver local
+- Designer logo
 
 ## Sujets
 
