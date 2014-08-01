@@ -17,7 +17,7 @@
 - Décider horaire
 - Réserver local
 
-## Sujects
+## Sujets
 
 ### Général
   - Comment organiser vos projets
