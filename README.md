@@ -19,7 +19,7 @@
 
 ## Sujects
 
-- Général
+### Général
   - Comment organiser vos projets
   - Designer des algorithmes
   - Bonnes pratiques de programmation
