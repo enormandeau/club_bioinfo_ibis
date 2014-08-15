@@ -3,7 +3,7 @@
 Si une des idées suivantes vous intéresse ou si vous avez des questions ou
 suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 
-### Général
+### Exemples de sujets
 - Général
   - Comment organiser vos projets
 - Statistiques
