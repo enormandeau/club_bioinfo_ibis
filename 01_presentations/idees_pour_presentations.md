@@ -3,7 +3,7 @@
 Si une des idées suivantes vous intéresse ou si vous avez des questions ou
 suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 
-## Général
+### Général
 - Général
   - Comment organiser vos projets
 - Statistiques
@@ -24,14 +24,14 @@ suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
   - Utiliser GitHub
   - Algorithmes et leur utilité
 
-## bash
+### bash
 - bases
 - pipes
 - boucles
 - parallel
 - screen et tmux
 
-## R
+### R
 - RStudio
 - figures
 - Définir ses fonctions
@@ -39,13 +39,13 @@ suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 - utiliser des scripts
 - packages utiles
 
-## Python
+### Python
 - modules utiles
 - créer des fonctions
 - créer des modules
 - programmation orientée objet (OOP)
 - virtualenv
 
-## Perl
+### Perl
 - installer des modules avec with CPAN
 
