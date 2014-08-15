@@ -15,6 +15,7 @@
 - Présentateurs variés
 - Matériel mis en ligne après les présentations
 - Rencontre du midi dans la salle Hydro-Québec
+- [Exemples de sujets de présentations](01_presentations/idees_pour_presentations.md)
 
 ## À faire
 
@@ -43,6 +44,4 @@
 
 ## Présentations passées
 - À venir
-
-## [**Sujets de présentations**](01_presentations/idees_pour_presentations.md)
 
