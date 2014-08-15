@@ -1,5 +1,7 @@
 # Club de Programmation de l'IBIS
 
+[LOGO ici]
+
 ## Objectifs
 - Développer aptitudes d'analyse des membres de l'IBIS
 - Présenter des sujets qui intéressent les participants
