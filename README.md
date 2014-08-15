@@ -44,5 +44,5 @@
 ## Présentations passées
 - À venir
 
-## ![**Sujets de présentations**](01_presentations/idees_pour_presentations.md)
+## [**Sujets de présentations**](01_presentations/idees_pour_presentations.md)
 
