@@ -22,23 +22,23 @@
 - Choisir un nom de club (pas programmation)
 - Design logo
 
-### Jeff
+#### Jeff
 - Sondage
   - Fréquence
   - Catégories de sujets
   - Journée (mardi ?)
 
-### Eric
+#### Eric
 - Maintenir GitHub à jour
 - Réserver local
 - Demander compte exemple sur katak
 - Préparer présentation pour septembre
   - Présenter club lors d'un Interlab IBIS
 
-### Antony
+#### Antony
 - Communication et questions
 
-### Bashar
+#### Bashar
 - Horaires
 
 ## Présentations passées
