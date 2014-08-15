@@ -55,5 +55,5 @@ src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/><span
 xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Le matériel du Club
 de Programmation de l'IBIS</span> est distribué sous licence :<a rel="license"
 href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr"><br/>Attribution -
-Partage dans les Mêmes Conditions 4.0 International/<a>
+Partage dans les Mêmes Conditions 4.0 International<a>
 
