@@ -1,10 +1,10 @@
-# Club de Programmation de l'IBIS
+# Club de Bioinfo de l'IBIS
 
 [LOGO ici]
 
 ## Objectifs
 - Développer aptitudes d'analyse des membres de l'IBIS
-- Présenter des sujets qui intéressent les participants
+- Présenter des sujets utilses pour les participants
 - Mini présentations suivi de programmation en pair/équipe
 - Assister installation de programmes
 - Familiariser avec Linux/UNIX
