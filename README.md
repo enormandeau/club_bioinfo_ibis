@@ -11,39 +11,29 @@
 - Ateliers de code
 
 ## Formule
-- Informel
-- Présentateurs variés
 - Similaire aux Interlabs Ibis
-- Matériel mis en ligne après les présentations
-- Rencontre du midi dans la salle Hydro-Québec
+- Rencontres informelles
+- Présentateurs variés
+- Matériel mis en ligne
+- Salle Hydro-Québec
+- Heure du midi
 - [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/idees_pour_presentations.md)
 
 ## À faire
 
 ### Général
-- Design logo
+- Design logo (Trouver quelqu'un)
+- Maintenir horaires à jour (Bachar)
+- Communication et questions (Antony)
+- Maintenir GitHub à jour (Eric)
 
-#### Jeff
-- Sondage
-  - Fréquence
-  - Catégories de sujets
-  - Journée (mardi ?)
+### Présentation
+- Présenter club le 17 septembre à l'Interlab IBIS (Eric)
 
-#### Eric
-- Maintenir GitHub à jour
-- Réserver local
-- Demander compte exemple sur katak
-- Préparer présentation pour septembre
-  - Présenter club lors d'un Interlab IBIS
-
-#### Antony
-- Communication et questions
-
-#### Bashar
-- Horaires
-
-## Présentations passées
-- À venir
+### Après présentation
+- Mettre sondage en ligne après présentation (Jeff)
+- Demander compte exemple sur katak (Eric)
+- Réserver local (Eric)
 
 ## Licence
 
