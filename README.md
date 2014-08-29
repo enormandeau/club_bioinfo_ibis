@@ -3,21 +3,20 @@
 [LOGO ici]
 
 ## Objectifs
-- Développer aptitudes d'analyse des membres de l'IBIS
-- Présenter des sujets utilses pour les participants
-- Mini présentations suivi de programmation en pair/équipe
-- Assister installation de programmes
-- Familiariser avec Linux/UNIX
+- Partager aptitudes d'analyse au sein de l'IBIS
+- Familiariser avec outils bioinfo et Linux/UNIX
+- Présenter des sujets de bioinfo utiles
 - Transfer de connaissances
+- Courtes présentations
 - Ateliers de code
 
 ## Formule
-- Similaire aux Interlabs Ibis
 - Informel
 - Présentateurs variés
+- Similaire aux Interlabs Ibis
 - Matériel mis en ligne après les présentations
 - Rencontre du midi dans la salle Hydro-Québec
-- [Exemples de sujets de présentations](01_presentations/idees_pour_presentations.md)
+- [Exemples de sujets de présentations](01_presentations/01_presentation_club_interlab_ibis/idees_pour_presentations.md)
 
 ## À faire
 
