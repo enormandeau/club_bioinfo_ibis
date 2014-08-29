@@ -16,7 +16,7 @@
 - Similaire aux Interlabs Ibis
 - Matériel mis en ligne après les présentations
 - Rencontre du midi dans la salle Hydro-Québec
-- [Exemples de sujets de présentations](01_presentations/01_presentation_club_interlab_ibis/idees_pour_presentations.md)
+- [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/idees_pour_presentations.md)
 
 ## À faire
 
