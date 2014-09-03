@@ -20,21 +20,16 @@ Présentation du Club de Bioinformatique de l'IBIS
 - Familiariser avec outils bioinfo et Linux/UNIX
 - Présenter des sujets de bioinfo utiles
 - Transfer de connaissances
-- Courtes présentations
 - Ateliers de code
 
 # Formule
 - Similaire aux Interlabs Ibis
-- Rencontres informelles
-- Présentateurs variés
+- Courtes présentations informelles
+- Salle Hydro-Québec sur l'heure du midi
+- Présentateurs variés, incluant service bioinfo (**demander avant présentation**)
 - Matériel mis en ligne
-- Salle Hydro-Québec
-- Heure du midi
 
-# Sujets d'intérêt
-
-## Présenter et demander autres idées
-
+# Sujets d'intérêt proposés
 - Outils et logiciels d'analyses
 - Problèmes rencontrés et solutions
 - Installation de programmes sur Linux/UNIX
@@ -42,4 +37,27 @@ Présentation du Club de Bioinformatique de l'IBIS
 - Édition d'images et figures
 - Utilisation de serveurs
 - Statistiques
+
+# Demander suggestions de sujets
+- Logiciels utiles
+- Défis bioinfo rencontrés
+- Utilisation de serveurs
+- Programmation
+
+# Introduire le sondage
+- Sondage rapide à remplir en ligne
+- Message sera envoyé
+- Merci d'y répondre !
+- Évaluer besoins et orientations
+
+# Exemple éclair de bioinfo
+- Faire exemple live 
+ - Télécharger données
+ - Traiter
+ - Générer figures
+ - Faire wow !
+
+# Discussion
+- Pas de chocolat :(
+
 
