@@ -28,7 +28,7 @@
 - Maintenir GitHub à jour (Eric)
 
 ### Présentation
-- Présenter club le 17 septembre à l'Interlab IBIS (Eric)
+- [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/presentation.md) le 17 septembre à l'Interlab IBIS (Eric)
 
 ### Après présentation
 - Mettre sondage en ligne après présentation (Jeff)
