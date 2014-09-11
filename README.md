@@ -1,5 +1,7 @@
 # Club de Bioinfo de l'IBIS
 
+**CODE SECRET** : \*\*\*\*\*
+
 [LOGO ici]
 
 ## Présentations
