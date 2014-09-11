@@ -2,6 +2,10 @@
 
 [LOGO ici]
 
+## Présentations
+### 2014
+- [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/presentation.md) le 17 septembre à l'Interlab IBIS (Eric Normandeau)
+
 ## Objectifs
 - Partager aptitudes d'analyse au sein de l'IBIS
 - Familiariser avec outils bioinfo et Linux/UNIX
@@ -28,9 +32,7 @@
 - Maintenir GitHub à jour (Eric)
 
 ### Présentation
-- [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/presentation.md) le 17 septembre à l'Interlab IBIS (Eric)
-
-### Après présentation
+- Finir présentation
 - Mettre sondage en ligne après présentation (Jeff)
 - Demander compte exemple sur katak (Eric)
 - Réserver local (Eric)
