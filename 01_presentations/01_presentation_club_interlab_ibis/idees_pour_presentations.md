@@ -4,34 +4,38 @@ Si une des idées suivantes vous intéresse ou si vous avez des questions ou
 suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 
 ### Exemples de sujets
-- Général
-  - Comment organiser vos projets
-- Statistiques
-  - Régressions dans R
-  - Random Forest
+
+#### Général
+- Comment organiser vos projets
+
+#### Statistiques
+- Régressions dans R
+- Random Forest
+
+#### Bioinformatique
 - Outils bioinfo/analyse
 - Problèmes et solutions d'analyse
 - Ressources disponibles
 - Exemples de code/scripts
 - Installation de programmes
 - Utilisation de serveurs
-- Programmation
-  - Bonnes pratiques
-  - Choisir un langage
-  - Code de qualité et réutilisable
-  - éditeurs de texte (textmate, sublime text, vi, emacs...)
-  - Sujets Python, Perl, R, Bash
-  - Utiliser GitHub
-  - Algorithmes et leur utilité
 
-### bash
+#### Programmation
+- Bonnes pratiques
+- Choisir un langage
+- Code de qualité et réutilisable
+- éditeurs de texte (textmate, sublime text, vi, emacs...)
+- Algorithmes et leur utilité
+- Utiliser GitHub
+
+#### bash
 - bases
 - pipes
 - boucles
 - parallel
 - screen et tmux
 
-### R
+#### R
 - RStudio
 - figures
 - Définir ses fonctions
@@ -39,13 +43,13 @@ suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 - utiliser des scripts
 - packages utiles
 
-### Python
+#### Python
 - modules utiles
 - créer des fonctions
 - créer des modules
 - programmation orientée objet (OOP)
 - virtualenv
 
-### Perl
+#### Perl
 - installer des modules avec with CPAN
 
