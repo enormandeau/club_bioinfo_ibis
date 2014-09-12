@@ -1,8 +1,6 @@
-# Club de Bioinfo de l'IBIS
+![LOGO](https://raw.githubusercontent.com/enormandeau/club_bioinfo_ibis/master/00_archive/images/logo_temporaire_club_bioinfo_ibis.png)
 
 **CODE SECRET** : \*\*\*\*\*
-
-![LOGO](https://raw.githubusercontent.com/enormandeau/club_bioinfo_ibis/master/00_archive/images/logo_temporaire_club_bioinfo_ibis.png)
 
 ## Présentations
 ### 2014
