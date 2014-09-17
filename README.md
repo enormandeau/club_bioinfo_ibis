@@ -1,7 +1,5 @@
 ![LOGO](https://raw.githubusercontent.com/enormandeau/club_bioinfo_ibis/master/00_archive/images/logo_temporaire_club_bioinfo_ibis.png)
 
-## CODE SECRET : Vélociraptor
-
 ## Présentations
 ### 2014
 - [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/01_presentation_club_interlab_ibis/presentation.pdf) le 17 septembre à l'Interlab IBIS (Eric Normandeau)
