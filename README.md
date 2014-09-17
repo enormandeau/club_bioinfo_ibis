@@ -12,31 +12,28 @@
 - Familiariser avec outils bioinfo et Linux/UNIX
 - Présenter des sujets de bioinfo utiles
 - Transfer de connaissances
-- Courtes présentations
-- Ateliers de code
 
 ## Formule
 - Similaire aux Interlabs Ibis
-- Rencontres informelles
+- Rencontres informelles midi
+- Courtes présentations
 - Présentateurs variés
-- Matériel mis en ligne
+- Matériel en ligne
+- Ateliers de code
 - Salle Hydro-Québec
-- Heure du midi
 - [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/idees_pour_presentations.md)
 
 ## À faire
+
+### Après présentation
+- Mettre sondage en ligne (Jeff)
+- Réserver local (Eric)
 
 ### Général
 - Design logo (Trouver quelqu'un)
 - Maintenir horaires à jour (Bachar)
 - Communication et questions (Antony)
 - Maintenir GitHub à jour (Eric)
-
-### Présentation
-- Finir présentation
-- Mettre sondage en ligne après présentation (Jeff)
-- Demander compte exemple sur katak (Eric)
-- Réserver local (Eric)
 
 ## Licence
 
