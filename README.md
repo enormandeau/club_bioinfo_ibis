@@ -1,7 +1,6 @@
 ![LOGO](https://raw.githubusercontent.com/enormandeau/club_bioinfo_ibis/master/00_archive/images/logo_temporaire_club_bioinfo_ibis.png)
 
-## CODE SECRET
-...
+## CODE SECRET : Vélociraptor
 
 ## Présentations
 ### 2014
