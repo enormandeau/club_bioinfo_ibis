@@ -18,7 +18,7 @@
 - Matériel en ligne
 - Ateliers de code
 - Salle Hydro-Québec
-- [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/01_presentation_club_interlab_ibis/idees_pour_presentations.md)
+- [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/idees_pour_presentations.md)
 
 ## À faire
 
