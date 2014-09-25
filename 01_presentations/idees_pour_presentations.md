@@ -45,13 +45,6 @@ suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 - Algorithmes et leur utilité
 - Utiliser GitHub
 
-#### bash
-- bases
-- pipes
-- boucles
-- parallel
-- screen et tmux
-
 #### R
 - RStudio
 - figures
@@ -59,13 +52,6 @@ suggestions, vous pouvez contacter ![Antony](antony.vincent.1@ulaval.ca)
 - knitr et la programmation littéraire
 - utiliser des scripts
 - packages utiles
-
-#### Python
-- modules utiles
-- créer des fonctions
-- créer des modules
-- programmation orientée objet (OOP)
-- virtualenv
 
 #### Perl
 - installer des modules avec with CPAN
