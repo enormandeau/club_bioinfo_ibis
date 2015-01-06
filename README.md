@@ -2,19 +2,19 @@
 
 ## Présentations
 ### 2015
-- **27 janvier** Eric Normandeau (Équipe de Louis Bernatchez) : Analyse exploratrice et prédiction de données dans R (PCA, LDA et Random Forest)
+- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : Analyse exploratrice et prédiction de données dans R (PCA, LDA et Random Forest)
 
-- **10 février** François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo*
+- **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo*
 
-- **24 février** Joey Zhong (Équipe de Christian Landry) : Biopython et RStudio (Présentation en anglais)
+- **24 février** - Joey Zhong (Équipe de Christian Landry) : Biopython et RStudio (Présentation en anglais)
 
-- **10 mars** Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique
+- **10 mars** - Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique
 
-- **24 mars**
+- **24 mars** - Xavier Barbeau (Équipe de Patrick Lagüe) : Modélisation de protéines
 
-- **7 avril**
+- **7 avril** - Anne-Marie Dion-Côté (Équipe de Louis Bernatchez) : Analyse de patrons épigénomiques
 
-- **21 avril**
+- **21 avril** - Laura Benestan (Équipe de Louis Bernatchez) : Séquençage RAD/GBS
 
 ### 2014
 - [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/01_presentation_club_interlab_ibis/presentation.pdf) le 17 septembre à l'Interlab IBIS (Eric Normandeau)
