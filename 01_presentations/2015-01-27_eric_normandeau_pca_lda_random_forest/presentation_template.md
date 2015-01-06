@@ -1,5 +1,12 @@
 # Analyse exploratrice et prédictive de données en R (PCA, LDA, Random Forest)
 
+## But
+
+## Techniques vues
+- PCA
+- LDA
+- Random Forest
+
 # PCA
 
 ## Description
