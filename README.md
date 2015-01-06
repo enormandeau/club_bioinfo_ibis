@@ -3,11 +3,17 @@
 ## Présentations
 ### 2015
 - **27 janvier** Eric Normandeau (Équipe de Louis Bernatchez) : Analyse exploratrice et prédiction de données dans R (PCA, LDA et Random Forest)
+
 - **10 février** François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo*
+
 - **24 février** Joey Zhong (Équipe de Christian Landry) : Biopython et RStudio (Présentation en anglais)
+
 - **10 mars** Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique
+
 - **24 mars**
+
 - **7 avril**
+
 - **21 avril**
 
 ### 2014
