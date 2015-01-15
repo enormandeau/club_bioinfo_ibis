@@ -11,7 +11,7 @@
 
 ## Description
 - Explorer les sources de variances principales d'un jeu de données.
-- Aucune connaissances *a priori* des données (untrained model).
+- Aucune connaissances *a priori* des données (untrained, non-supervisé).
 - Visualisation.
 
 ## Utilité en biologie/génétique/génomique
@@ -23,6 +23,10 @@
 # LDA
 
 ## Description
+- Utiliser l'information d'un nombre d'échantillons pour prédire appartenance d'autres échantillons.
+- Connaissance *a priori* de la classification (trained, supervisé).
+- Problème de classification.
+- Visualisation.
 
 ## Utilité en biologie/génétique/génomique
 
