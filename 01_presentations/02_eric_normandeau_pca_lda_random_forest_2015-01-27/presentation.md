@@ -1,6 +1,6 @@
 \pagenumbering{gobble}
 
-# Exploration et classification de données avec R
+# Exploration et classification de données
 
 ![](./00_archive/data_analysis.png)
 
@@ -8,26 +8,27 @@
 
 \newpage
 
-# Exploration et classification de données avec R
-## Objectifs
-- Découvrir 3 techniques d'exploration et de classification de données
-- PCA, LDA, Random Forest
-- Tester ces techniques dans R
-- Faire un survol superficiel
-
-\newpage
-
-# À propos des présentations du club
+# Présentations du club
 
 ## Format
 - Similaire aux Interlabs IBIS
 - Dimension analyses (analyses, programmes, code...)
-- Exposer son expérience personnelle avec les analyses
+- Exposer son expérience personnelle
 - Pas simplement présenter des articles
 
 ## Disponibilité
-- Présentations et le matériel de support mis en ligne
-- [Page GitHub du club](https://github.com/enormandeau/club_bioinfo_ibis)
+- Présentations et le matériel mis en ligne
+- [Page GitHub du Club de Bioinfo de l'IBIS](https://github.com/enormandeau/club_bioinfo_ibis)
+
+\newpage
+
+# Exploration et classification de données
+## Objectifs
+- Découvrir 3 techniques statistiques
+- Exploration et de classification de données
+- PCA, LDA, Random Forest
+- Tester ces techniques dans R
+- Faire un survol superficiel
 
 \newpage
 
@@ -38,17 +39,18 @@
 
 # PCA
 ## Description
-- Explorer les sources de variances principales d'un jeu de données.
-- Aucune connaissances *a priori* des données (untrained, non-supervisé).
+- Explorer les sources de variances principales.
+- Aucune connaissances *a priori* des données.
+- Untrained, non-supervisé.
 - Visualisation.
 
 ## Utilité en biologie/génétique/génomique
-- Connaître quelles variables permettent de regrouper des échantillons.
-- Identifier importance de différentes sources de variation.
+- Variables qui permettent de regrouper des échantillons.
+- Importance de différentes sources de variation.
 - Visualiser le regroupement 'naturel' des données.
 
 ## Limites
-- Plus compliqué si on souhaite avoir une *p-valeur* pour la contribution des variables aux axes.
+- Compliqué d'avoir une *p-valeur* des variables par axe.
 - Plutôt, descriptif.
 
 \newpage
@@ -60,19 +62,21 @@
 
 # LDA
 ## Description
-- Utiliser un ensemble d'échantillons pour prédire l'appartenance d'autres échantillons.
-- Connaissance *a priori* de la classification (trained, supervisé).
+- Prédire l'appartenance d'échantillons.
+- Connaissance *a priori* de la classification.
+- Trained, supervisé.
 - Problème de classification.
 - Visualisation.
 
 ## Utilité en biologie/génétique/génomique
-- Classification d'individus en catégories (eg: sain, infecté).
-- Utilisation d'individus comme bio-marqueurs de pollution.
+- Classification d'individus en catégories
+- Ex : sain, infecté.
+- Ex : Individus comme bio-marqueurs de pollution.
 
 ## Limites
-- Requiert un grand nombre d'échantillons d'entraînement.
-- Moins approprié/puissant quand il y a un grand nombre de variables.
-- Les échantillons à classifier doivent être comparables aux échantillons d'entraînement.
+- Grand nombre d'échantillons d'entraînement.
+- Moins approprié/puissant pour grand nombre de variables.
+- Données à classer doivent être similaires aux données test.
 
 \newpage
 
@@ -83,19 +87,22 @@
 
 # Random Forest
 ## Description
-- Classification ou régression à partir d'un jeu de données d'apprentissage.
-- Connaissance *a priori* de la classification (trained, supervisé).
+- Classification ou régression.
+- Connaissance *a priori* de la classification.
+- Trained, supervisé.
 - Problème de classification ou de régression.
 - Visualisation.
 
 ## Utilité en biologie/génétique/génomique
-- Très approprié si le nombre de variables est très élevé (eg: expression de gènes ou marqueurs SNPs).
-- Classification d'individus en catégories (eg: sain ou infecté, par population).
-- Prédiction de réponse par régression en utilisant de nombreuses variables.
-- Utilisation d'individus comme bio-marqueurs de pollution.
+- Très approprié si le nombre de variables est très élevé
+- Ex : expression de gènes ou marqueurs SNPs.
+- Classification d'individus en catégories
+- Ex : Utilisation d'individus comme bio-marqueurs de pollution.
 - Identifier variables importantes (valeur d'importance).
+- Prédiction de réponse par régression.
 
 ## Limites
-- Méthode encore plutôt nouvelle en biologie (existe depuis ~10 ans).
-- Valeur d'importance réduite lorsqu'on utilise des marqueurs génétiques liés.
+- Méthode encore plutôt nouvelle.
+- Valeur d'importance réduite pour marqueurs génétiques liés.
+- Données à classer doivent être similaires aux données test.
 
