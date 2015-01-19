@@ -13,6 +13,7 @@
 - Découvrir 3 techniques d'exploration et de classification de données
 - PCA, LDA, Random Forest
 - Tester ces techniques dans R
+- Faire un survol superficiel
 
 \newpage
 
