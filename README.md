@@ -2,7 +2,7 @@
 
 ## Présentations
 ### 2015
-- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [présentation en PDF](./01_presentations/2015-01-27_eric_normandeau_pca_lda_random_forest/presentation.pdf?raw=true)
+- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [présentation en PDF]( https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/presentation.pdf)
 
 - **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo*
 
