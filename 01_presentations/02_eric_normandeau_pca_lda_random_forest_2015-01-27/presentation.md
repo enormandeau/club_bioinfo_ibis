@@ -2,7 +2,7 @@
 
 # Exploration et classification de données avec R
 
-(Insert image here)
+![](./00_archive/data_analysis.png)
 
 **Eric Normandeau - 2015-01-27**
 

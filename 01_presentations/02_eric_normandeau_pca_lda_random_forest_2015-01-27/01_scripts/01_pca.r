@@ -8,22 +8,6 @@ data = mtcars
 # Plot data to have a look
 plot(data)
 
-###### Using the prcomp function
-## Perform PCA
-#pca = prcomp(data, scale. = TRUE)
-
-## Plot importance of different axes
-#plot(pca)
-
-## Explore which factors play a major role in PC1 and PC2
-#plot(pca$x[,1:2], pch=16, col=data$am + 1)
-
-#plot(pca$x[,1:2], pch=16)
-#plot(pca$x[,2:3], pch=16)
-
-#plot(pca$x[,1:2], pch=16, col=data$am + 1)
-#plot(pca$x[,1:2], pch=16, col=data$cyl + 1)
-
 ##### Using the FactoMineR PCA function
 library(FactoMineR)
 pca = PCA(data)
@@ -33,5 +17,18 @@ barplot(pca$eig[,1])
 
 # Explore which factors play a major role in PC1 and PC2
 pca$var$coord
-plot(pca$ind$coord[,1:2], pch=16, col=data$am+1)
+
+# Manual vs. automatic
+palette(rainbow(3, v=0.9))
+plot(pca$ind$coord[,1:2], pch=16, col=as.factor(data$am), cex=1.5)
+
+# Number of cylinders
+palette(rainbow(3, v=0.9))
+plot(pca$ind$coord[,1:2], pch=16 + data$am, col=as.factor(data$cyl), cex=1.5)
+
+# Power
+palette(rainbow(10, v=0.9))
+plot(pca$ind$coord[,1:2], pch=16, col=10*data$hp/max(data$hp), cex=1.5)
+text(pca$ind$coord[,1], pca$ind$coord[,2] + 0.15, as.character(data$hp), col="darkgrey")
+
 

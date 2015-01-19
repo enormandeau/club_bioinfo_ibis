@@ -1,3 +1,6 @@
+# TODO
+# - Remove part of the dataset (like for LDA) and assess quality of prediction
+
 # Clean environment
 rm(list=ls())
 
@@ -21,6 +24,8 @@ rf$votes
 
 # See how good our prediction is
 rf$confusion
+
+# Prediction
 prediction = data.frame(mtcars$cyl, as.numeric(as.character(rf$predicted)))
 prediction = data.frame(prediction, prediction[,1] == prediction[,2])
 row.names(prediction) = row.names(mtcars)
@@ -53,5 +58,7 @@ plot(rf$rsq, type='l')
 plot(mtcars$mpg, rf$predicted, pch=16, cex=1.5, col="#00000088", main="Predicted vs. Real mileage", ylab="Predicted mileage (mpg)", xlab="Actual mileage (mpg)")
 
 # Find the important factors
-sort(rf$importance[,1], decreasing=T)
+imp = data.frame(sort(rf$importance[,1], decreasing=T))
+names(imp) = c("Importance")
+imp
 
