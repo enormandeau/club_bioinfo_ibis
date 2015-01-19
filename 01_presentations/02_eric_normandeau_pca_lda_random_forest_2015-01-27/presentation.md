@@ -1,6 +1,14 @@
+\pagenumbering{gobble}
+
 # Exploration et classification de données avec R
+
+(Insert image here)
+
 **Eric Normandeau - 2015-01-27**
 
+\newpage
+
+# Exploration et classification de données avec R
 ## Objectifs
 - Découvrir 3 techniques d'exploration et de classification de données
 - PCA, LDA, Random Forest
@@ -25,6 +33,9 @@
 # PCA
 ![](./00_archive/pca.png)
 
+\newpage
+
+# PCA
 ## Description
 - Explorer les sources de variances principales d'un jeu de données.
 - Aucune connaissances *a priori* des données (untrained, non-supervisé).
@@ -44,6 +55,9 @@
 # LDA
 ![](./00_archive/lda.png)
 
+\newpage
+
+# LDA
 ## Description
 - Utiliser un ensemble d'échantillons pour prédire l'appartenance d'autres échantillons.
 - Connaissance *a priori* de la classification (trained, supervisé).
@@ -64,6 +78,9 @@
 # Random Forest
 ![](./00_archive/random_forest.png)
 
+\newpage
+
+# Random Forest
 ## Description
 - Classification ou régression à partir d'un jeu de données d'apprentissage.
 - Connaissance *a priori* de la classification (trained, supervisé).
