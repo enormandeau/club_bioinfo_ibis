@@ -8,6 +8,20 @@
 
 \newpage
 
+# À propos des présentations du club
+
+## Format
+- Similaire aux Interlabs IBIS
+- Dimension analyses (analyses, programmes, code...)
+- Exposer son expérience personnelle avec les analyses
+- Pas simplement présenter des articles
+
+## Disponibilité
+- Présentations et le matériel de support mis en ligne
+- [Page GitHub du club](https://github.com/enormandeau/club_bioinfo_ibis)
+
+\newpage
+
 # PCA
 ![](./00_archive/pca.png)
 
