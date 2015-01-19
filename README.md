@@ -2,7 +2,7 @@
 
 ## Présentations
 ### 2015
-- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [Analyse exploratrice et prédiction de données dans R (PCA, LDA et Random Forest)](./01_presentations/2015-01-27_eric_normandeau_pca_lda_random_forest/presentation_template.pdf?raw=true)
+- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [présentation en PDF](./01_presentations/2015-01-27_eric_normandeau_pca_lda_random_forest/presentation_template.pdf?raw=true)
 
 - **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo*
 
