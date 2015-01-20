@@ -2,15 +2,17 @@
 
 # Exploration et classification de données
 
-![](./00_archive/data_analysis.png)
-
 **Eric Normandeau - 2015-01-27**
 
+![](./00_archive/data_analysis.png)
+
 \newpage
+\LARGE
 
-# Présentations du club
+# Club de Bioinformatique de l'IBIS
 
-## Format
+## Objectif
+- Partager connaissances en bioinformatique
 - Similaire aux Interlabs IBIS
 - Dimension analyses (analyses, programmes, code...)
 - Exposer son expérience personnelle
@@ -44,13 +46,16 @@
 - Untrained, non-supervisé.
 - Visualisation.
 
+\newpage
+
+# PCA
 ## Utilité en biologie/génétique/génomique
-- Variables qui permettent de regrouper des échantillons.
+- Variables qui caractérisent des échantillons.
 - Importance de différentes sources de variation.
 - Visualiser le regroupement 'naturel' des données.
 
 ## Limites
-- Compliqué d'avoir une *p-valeur* des variables par axe.
+- Compliqué : *p-valeur* des variables par axe.
 - Plutôt, descriptif.
 
 \newpage
@@ -68,6 +73,9 @@
 - Problème de classification.
 - Visualisation.
 
+\newpage
+
+# LDA
 ## Utilité en biologie/génétique/génomique
 - Classification d'individus en catégories
 - Ex : sain, infecté.
@@ -75,7 +83,7 @@
 
 ## Limites
 - Grand nombre d'échantillons d'entraînement.
-- Moins approprié/puissant pour grand nombre de variables.
+- Moins approprié/puissant si grand nombre de variables.
 - Données à classer doivent être similaires aux données test.
 
 \newpage
@@ -93,14 +101,20 @@
 - Problème de classification ou de régression.
 - Visualisation.
 
+\newpage
+
+# Random Forest
 ## Utilité en biologie/génétique/génomique
 - Très approprié si le nombre de variables est très élevé
 - Ex : expression de gènes ou marqueurs SNPs.
 - Classification d'individus en catégories
-- Ex : Utilisation d'individus comme bio-marqueurs de pollution.
+- Ex : Individus comme bio-marqueurs de pollution.
 - Identifier variables importantes (valeur d'importance).
 - Prédiction de réponse par régression.
 
+\newpage
+
+# Random Forest
 ## Limites
 - Méthode encore plutôt nouvelle.
 - Valeur d'importance réduite pour marqueurs génétiques liés.
