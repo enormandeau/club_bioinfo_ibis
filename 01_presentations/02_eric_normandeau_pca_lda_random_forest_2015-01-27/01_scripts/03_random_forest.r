@@ -34,7 +34,6 @@ prediction
 mean(prediction[,3])
 
 # Find the important factors
-rf$importance
 importance = data.frame(rf$importance[order(rf$importance, decreasing=T),])
 names(importance) = "Importance"
 importance
@@ -55,7 +54,9 @@ rf$type
 plot(rf$rsq, type='l')
 
 # See how good our prediction is
-plot(mtcars$mpg, rf$predicted, pch=16, cex=1.5, col="#00000088", main="Predicted vs. Real mileage", ylab="Predicted mileage (mpg)", xlab="Actual mileage (mpg)")
+plot(mtcars$mpg, rf$predicted, pch=16, cex=1.5, col="#00000088",
+     main="Predicted vs. Real mileage", ylab="Predicted mileage (mpg)",
+     xlab="Actual mileage (mpg)")
 
 # Find the important factors
 imp = data.frame(sort(rf$importance[,1], decreasing=T))

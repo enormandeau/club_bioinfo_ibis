@@ -20,15 +20,23 @@ pca$var$coord
 
 # Manual vs. automatic
 palette(rainbow(3, v=0.9))
-plot(pca$ind$coord[,1:2], pch=16, col=as.factor(data$am), cex=1.5)
+plot(pca$ind$coord[,1:2], pch=16, col=as.factor(data$am),
+     cex=1.5, xlim=c(-5, 5), ylim=c(-3, 5))
+text(pca$ind$coord[,1], pca$ind$coord[,2] + 0.2,
+     row.names(data), col="darkgrey", cex=0.8)
 
 # Number of cylinders
 palette(rainbow(3, v=0.9))
-plot(pca$ind$coord[,1:2], pch=16 + data$am, col=as.factor(data$cyl), cex=1.5)
+plot(pca$ind$coord[,1:2], pch=16 + data$am, col=as.factor(data$cyl),
+     cex=1.5, xlim=c(-5, 5), ylim=c(-3, 5))
+text(pca$ind$coord[,1], pca$ind$coord[,2] + 0.2, row.names(data),
+     col="darkgrey", cex=0.8)
 
 # Power
-palette(rainbow(10, v=0.9))
-plot(pca$ind$coord[,1:2], pch=16, col=10*data$hp/max(data$hp), cex=1.5)
-text(pca$ind$coord[,1], pca$ind$coord[,2] + 0.15, as.character(data$hp), col="darkgrey")
+palette(rainbow(20, v=0.9))
+plot(pca$ind$coord[,1:2], pch=16, col=19*data$hp/max(data$hp),
+     cex=1.5, xlim=c(-5, 5), ylim=c(-3, 5))
+text(pca$ind$coord[,1], pca$ind$coord[,2] + 0.2,
+     as.character(data$hp), col="darkgrey", cex=0.8)
 
 
