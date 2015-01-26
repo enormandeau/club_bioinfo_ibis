@@ -6,9 +6,10 @@ rm(list=ls())
 data = mtcars
 
 # Plot data to have a look
-plot(data)
+plot(data, pch=16, cex=0.8)
 
 ##### Using the FactoMineR PCA function
+# install.packages("FactoMineR")
 library(FactoMineR)
 pca = PCA(data)
 

@@ -2,6 +2,7 @@
 rm(list=ls())
 
 # Loading the MASS library
+# install.packages("MASS")
 library(MASS)
 
 # Loading data

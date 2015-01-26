@@ -5,6 +5,7 @@
 rm(list=ls())
 
 # Loading libraries
+# install.packages("randomForest")
 library(randomForest)
 
 
@@ -13,7 +14,7 @@ library(randomForest)
 data = mtcars[,-2]
 
 # Random Forest on all samples
-rf = randomForest(data, as.factor(mtcars$cyl), ntree=10000)
+rf = randomForest(data, as.factor(mtcars$cyl), ntree=1000)
 
 # It is a classification problem (categories)
 rf$type
@@ -40,6 +41,13 @@ importance
 
 
 
+# Clean environment
+rm(list=ls())
+
+# Loading libraries
+# install.packages("randomForest")
+library(randomForest)
+
 ##### Predicting gas consumption
 # Load data
 data = mtcars[,-1]
@@ -56,7 +64,7 @@ plot(rf$rsq, type='l')
 # See how good our prediction is
 plot(mtcars$mpg, rf$predicted, pch=16, cex=1.5, col="#00000088",
      main="Predicted vs. Real mileage", ylab="Predicted mileage (mpg)",
-     xlab="Actual mileage (mpg)")
+     xlab="Actual mileage (mpg)", xlim=c(0, 40), ylim=c(0,40))
 
 # Find the important factors
 imp = data.frame(sort(rf$importance[,1], decreasing=T))

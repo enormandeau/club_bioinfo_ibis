@@ -42,18 +42,11 @@
 # PCA
 ## Description
 - Explorer les sources de variances principales.
-- Aucune connaissances *a priori* des données.
-- Untrained, non-supervisé.
-- Visualisation.
-
-\newpage
-
-# PCA
-## Utilité en biologie/génétique/génomique
 - Variables qui caractérisent des échantillons.
 - Importance de différentes sources de variation.
+- Aucune connaissances *a priori* des données.
+- Non-supervisée (untrained).
 - Visualiser le regroupement 'naturel' des données.
-
 ## Limites
 - Compliqué : *p-valeur* des variables par axe.
 - Plutôt, descriptif.
@@ -67,19 +60,11 @@
 
 # LDA
 ## Description
-- Prédire l'appartenance d'échantillons.
+- Classification d'individus (sains, infectés...).
 - Connaissance *a priori* de la classification.
-- Trained, supervisé.
+- Supervisée (trained).
 - Problème de classification.
 - Visualisation.
-
-\newpage
-
-# LDA
-## Utilité en biologie/génétique/génomique
-- Classification d'individus en catégories
-- Ex : sain, infecté.
-- Ex : Individus comme bio-marqueurs de pollution.
 
 ## Limites
 - Grand nombre d'échantillons d'entraînement.
@@ -95,9 +80,10 @@
 
 # Random Forest
 ## Description
+- Méthode récente (algoritme publié en 2001).
 - Classification ou régression.
 - Connaissance *a priori* de la classification.
-- Trained, supervisé.
+- Supervisée (trained).
 - Problème de classification ou de régression.
 - Visualisation.
 
@@ -105,10 +91,11 @@
 
 # Random Forest
 ## Utilité en biologie/génétique/génomique
-- Très approprié si le nombre de variables est très élevé
-- Ex : expression de gènes ou marqueurs SNPs.
-- Classification d'individus en catégories
-- Ex : Individus comme bio-marqueurs de pollution.
+- Très approprié si le nombre de variables est très élevé.  
+  (Expression de gènes ou marqueurs SNPs)
+- Classification d'individus en catégories.  
+  (Individus sains ou infectés)  
+  (Individus comme bio-marqueurs de pollution)
 - Identifier variables importantes (valeur d'importance).
 - Prédiction de réponse par régression.
 
