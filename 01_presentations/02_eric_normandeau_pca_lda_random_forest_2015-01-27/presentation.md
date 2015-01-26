@@ -4,7 +4,8 @@
 
 **Eric Normandeau - 2015-01-27**
 
-![](./00_archive/data_analysis.png)
+![](./00_images/logo.png)  
+![](./00_images/data_tsunami.png)  
 
 \newpage
 \LARGE
@@ -35,7 +36,7 @@
 \newpage
 
 # PCA
-![](./00_archive/pca.png)
+![](./00_images/pca.png)
 
 \newpage
 
@@ -54,7 +55,7 @@
 \newpage
 
 # LDA
-![](./00_archive/lda.png)
+![](./00_images/lda.png)
 
 \newpage
 
@@ -74,7 +75,7 @@
 \newpage
 
 # Random Forest
-![](./00_archive/random_forest.png)
+![](./00_images/random_forest.png)
 
 \newpage
 
