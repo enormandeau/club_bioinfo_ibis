@@ -5,6 +5,7 @@
 **Eric Normandeau - 2015-01-27**
 
 ![](./00_images/logo.png)  
+
 ![](./00_images/data_tsunami.png)  
 
 \newpage
