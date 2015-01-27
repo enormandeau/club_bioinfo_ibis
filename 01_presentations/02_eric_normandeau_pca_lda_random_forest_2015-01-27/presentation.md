@@ -90,6 +90,8 @@
 - Problème de classification ou de régression.
 - Visualisation.
 
+![](./00_images/random_forest_algorithm.png) 
+
 \newpage
 
 # Random Forest
