@@ -19,6 +19,7 @@
 - Dimension analyses (analyses, programmes, code...)
 - Exposer son expérience personnelle
 - Pas simplement présenter des articles
+- Différent de ma présentation
 
 ## Disponibilité
 - Présentations et le matériel mis en ligne
