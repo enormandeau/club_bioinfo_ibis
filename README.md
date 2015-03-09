@@ -6,9 +6,9 @@
 
 - **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo* [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/03_francois-olivier_hebert_optimisation_rnaseq/FOH.club-bif.100215.pdf)
 
-- **24 février** - Joey Zhong (Équipe de Christian Landry) : Biopython et RStudio (Présentation en anglais)
+- **24 février** - Joey Zhong (Équipe de Christian Landry) : Biopython et RStudio (Présentation en anglais) (Cancellée)
 
-- **10 mars** - Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique
+- **10 mars** - Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/04_jean-guillaume_emond-rheault_genomes_bacteriens/analyse_genomes_bacteriens.pdf)
 
 - **24 mars** - Xavier Barbeau (Équipe de Patrick Lagüe) : Modélisation de protéines
 
