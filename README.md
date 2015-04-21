@@ -12,7 +12,7 @@
 
 - **24 mars** - Xavier Barbeau (Équipe de Patrick Lagüe) : Modélisation de protéines
 
-- **7 avril** - Anne-Marie Dion-Côté (Équipe de Louis Bernatchez) : Analyse de patrons épigénomiques
+- **7 avril** - Bachar Cheaib (Équipe de Nicolas Derome) : Analyse de métagénomes [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/05_bachar_cheiab_microbiomes/club_bioinfo_Bach.pdf)
 
 - **21 avril** - Laura Benestan (Équipe de Louis Bernatchez) : Séquençage RAD/GBS
 
