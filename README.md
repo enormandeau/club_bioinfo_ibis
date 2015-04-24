@@ -12,7 +12,7 @@
 
 - **7 avril** - Bachar Cheaib (Équipe de Nicolas Derome) : Analyse de métagénomes [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/05_bachar_cheiab_microbiomes/club_bioinfo_Bach.pdf)
 
-- **21 avril** - Laura Benestan (Équipe de Louis Bernatchez) : Séquençage RAD/GBS
+- **21 avril** - Laura Benestan (Équipe de Louis Bernatchez) : Séquençage RAD/GBS [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/06_laura_benestan_gbs/rad_laura_benestan_pdf)
 
 ### 2014
 - [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/01_presentation_club_interlab_ibis/presentation.pdf) le 17 septembre à l'Interlab IBIS (Eric Normandeau)
