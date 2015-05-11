@@ -1,22 +1,5 @@
 ![LOGO](https://raw.githubusercontent.com/enormandeau/club_bioinfo_ibis/master/00_archive/images/logo_temporaire_club_bioinfo_ibis.png)
 
-## Présentations
-### 2015
-- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [Présentation]( https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/presentation.pdf) et [Scripts](https://github.com/enormandeau/club_bioinfo_ibis/tree/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/01_scripts)
-
-- **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo* [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/03_francois-olivier_hebert_optimisation_rnaseq/FOH.club-bif.100215.pdf)
-
-- **10 mars** - Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/04_jean-guillaume_emond-rheault_genomes_bacteriens/analyse_genomes_bacteriens.pdf)
-
-- **24 mars** - Xavier Barbeau (Équipe de Patrick Lagüe) : Modélisation de protéines
-
-- **7 avril** - Bachar Cheaib (Équipe de Nicolas Derome) : Analyse de métagénomes [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/05_bachar_cheiab_microbiomes/club_bioinfo_Bach.pdf)
-
-- **21 avril** - Laura Benestan (Équipe de Louis Bernatchez) : Séquençage RAD/GBS [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/06_laura_benestan_gbs/rad_laura_benestan.pdf)
-
-### 2014
-- [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/01_presentation_club_interlab_ibis/presentation.pdf) le 17 septembre à l'Interlab IBIS (Eric Normandeau)
-
 ## Objectifs
 - Partager aptitudes d'analyse au sein de l'IBIS
 - Familiariser avec outils bioinfo et Linux/UNIX
@@ -33,17 +16,22 @@
 - Salle Hydro-Québec
 - [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/idees_pour_presentations.md)
 
-## À faire
+## Présentations
+### 2015
+- **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [Présentation]( https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/presentation.pdf) et [Scripts](https://github.com/enormandeau/club_bioinfo_ibis/tree/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/01_scripts)
 
-### Après présentation
-- Mettre sondage en ligne (Jeff)
-- Réserver local (Eric)
+- **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo* [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/03_francois-olivier_hebert_optimisation_rnaseq/FOH.club-bif.100215.pdf)
 
-### Général
-- Design logo (Trouver quelqu'un)
-- Maintenir horaires à jour (Bachar)
-- Communication et questions (Antony)
-- Maintenir GitHub à jour (Eric)
+- **10 mars** - Jean-Guillaume Emond-Rheault (Équipe de Steve Charette) : Analyses génomique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/04_jean-guillaume_emond-rheault_genomes_bacteriens/analyse_genomes_bacteriens.pdf)
+
+- **24 mars** - Xavier Barbeau (Équipe de Patrick Lagüe) : Modélisation de protéines
+
+- **7 avril** - Bachar Cheaib (Équipe de Nicolas Derome) : Analyse de métagénomes [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/05_bachar_cheiab_microbiomes/club_bioinfo_Bach.pdf)
+
+- **21 avril** - Laura Benestan (Équipe de Louis Bernatchez) : Séquençage RAD/GBS [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/06_laura_benestan_gbs/rad_laura_benestan.pdf)
+
+### 2014
+- [Présentation du club](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/01_presentation_club_interlab_ibis/presentation.pdf) le 17 septembre à l'Interlab IBIS (Eric Normandeau)
 
 ## Licence
 
