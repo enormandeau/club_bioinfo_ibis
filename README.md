@@ -16,6 +16,10 @@
 - Salle Hydro-Québec
 - [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/idees_pour_presentations.md)
 
+## Ateliers
+### 2015
+- **21 Juillet** - Marie Filteau (Équipe de Christian Landry) : JMP12 : l'art de l'analyse de données [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/01_marie_filteau_jmp/atelier_JMP.pdf) [Fichiers](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/01_marie_filteau_jmp/atelier_JMP.zip)
+
 ## Présentations
 ### 2015
 - **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [Présentation]( https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/presentation.pdf) et [Scripts](https://github.com/enormandeau/club_bioinfo_ibis/tree/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/01_scripts)
