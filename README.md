@@ -18,6 +18,8 @@
 
 ## Ateliers
 ### 2015
+- **6 Octobre** - Katherine Tanaka (Équipe de Steve Charette) : abISsal - Développement d'un outil pour détecter les évènements de translocalisation d'éléments IS chez *Aeromonas salmonicida ssp. salmonicida* (13h15, salle Hydro-Québec) [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/07_katherine_tanaka/abISsal_katherine_tanaka.pdf)
+
 - **21 Juillet** - Marie Filteau (Équipe de Christian Landry) : JMP12 : l'art de l'analyse de données (13h, salle Hydro-Québec) [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/01_marie_filteau_jmp/atelier_JMP.pdf), [Fichiers](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/01_marie_filteau_jmp/atelier_JMP.zip) et [document aide-mémoire](https://www.dropbox.com/s/s0cxjr4h7p6s1be/2014_05%20-%20OPG%20Combined%20for%20Printing%20-%20Version%204.pdf?dl=0)
 
 ## Présentations
