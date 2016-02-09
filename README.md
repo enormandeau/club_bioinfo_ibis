@@ -24,6 +24,9 @@ bioinformatique fondamentale (e.g. programmation, algorithmique) qu'appliquée
 - [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/idees_pour_presentations.md)
 
 ## Présntations, ateliers et discussions
+### 2016
+- **1er décembre** - Jeff Gauthier (Équipe de Nicolas Derome) : Une brève histoire de la bioinformatique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/08_jeff_gauthier_histoire_bioinfo_2/jeff_gauthier_club_bioinfo_ibis_v2.0.pdf)
+
 ### 2015
 - **1er décembre** - Jeff Gauthier (Équipe de Nicolas Derome) : Une brève histoire de la bioinformatique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/08_jeff_gauthier_histoire_bioinfo_1/jeff_gauthier_club_bioinfo_ibis_v1.0.pdf)
 - **20 Octobre** - Maxime Boissonneault (Calcul Québec) : Le calcul informatique de pointe au service de la bioinformatique [Présentation](https://docs.google.com/presentation/d/1_KMefWfQOdCUkH2ezuE--0sGeuaoz0TomCNa7KSs9xM/edit#slide=id.g6437568d3_1_102)
