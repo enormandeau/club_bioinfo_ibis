@@ -25,7 +25,7 @@ bioinformatique fondamentale (e.g. programmation, algorithmique) qu'appliquée
 
 ## Présntations, ateliers et discussions
 ### 2016
-- **1er mars** - Eric Normandeau (Équipe de Louis Bernatchez) : Comparer facilement des cartes génétiques avec MapComp [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/11_eric_normandeau_mapcomp/eric_normandeau_mapcomp.pdf)
+- **1er mars** - Eric Normandeau (Équipe de Louis Bernatchez) : Comparer facilement des cartes génétiques avec MapComp [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/11_eric_normandeau_mapcomp/eric_normandeau_mapcomp.pdf) [Logiciel](https://github.com/enormandeau/mapcomp)
 
 - **16 février** - Jérôme Laroche (Plate-Forme de bioinformatique) : Les services de la plate forme de bioionformatique de l'IBIS [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/10_jerome_laroche_plateforme/jerome_laroche_plateforme.pdf)
 
