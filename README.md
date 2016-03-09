@@ -26,15 +26,20 @@ bioinformatique fondamentale (e.g. programmation, algorithmique) qu'appliquée
 ## Présntations, ateliers et discussions
 ### 2016
 - **1er mars** - Eric Normandeau (Équipe de Louis Bernatchez) : Comparer facilement des cartes génétiques avec MapComp [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/11_eric_normandeau_mapcomp/eric_normandeau_mapcomp.pdf)
-- **16 février** - Jérôme Laroche (Plate-Forme de bioinformatique) : Les services de la plate forme de bioionformatique de l'IBIS [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/10_jerome_laroche_plateforme/jerome_laroche_plateforme.0.pdf)
+
+- **16 février** - Jérôme Laroche (Plate-Forme de bioinformatique) : Les services de la plate forme de bioionformatique de l'IBIS [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/10_jerome_laroche_plateforme/jerome_laroche_plateforme.pdf)
+
 - **2 février** - Jeff Gauthier (Équipe de Nicolas Derome) : Une brève histoire de la bioinformatique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/09_jeff_gauthier_histoire_bioinfo_2/jeff_gauthier_club_bioinfo_ibis_v2.0.pdf)
 
 ### 2015
 - **1er décembre** - Jeff Gauthier (Équipe de Nicolas Derome) : Une brève histoire de la bioinformatique [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/08_jeff_gauthier_histoire_bioinfo_1/jeff_gauthier_club_bioinfo_ibis_v1.0.pdf)
+
 - **20 octobre** - Maxime Boissonneault (Calcul Québec) : Le calcul informatique de pointe au service de la bioinformatique [Présentation](https://docs.google.com/presentation/d/1_KMefWfQOdCUkH2ezuE--0sGeuaoz0TomCNa7KSs9xM/edit#slide=id.g6437568d3_1_102)
+
 - **6 octobre** - Katherine Tanaka (Équipe de Steve Charette) : abISsal - Développement d'un outil pour détecter les évènements de translocalisation d'éléments IS chez *Aeromonas salmonicida ssp. salmonicida* (13h15, salle Hydro-Québec) [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/07_katherine_tanaka/abISsal_katherine_tanaka.pdf)
 
 - **21 juillet** - Marie Filteau (Équipe de Christian Landry) : JMP12 : l'art de l'analyse de données (13h, salle Hydro-Québec) [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/01_marie_filteau_jmp/atelier_JMP.pdf), [Fichiers](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/01_marie_filteau_jmp/atelier_JMP.zip) et [document aide-mémoire](https://www.dropbox.com/s/s0cxjr4h7p6s1be/2014_05%20-%20OPG%20Combined%20for%20Printing%20-%20Version%204.pdf?dl=0)
+
 - **27 janvier** - Eric Normandeau (Équipe de Louis Bernatchez) : [Présentation]( https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/presentation.pdf) et [Scripts](https://github.com/enormandeau/club_bioinfo_ibis/tree/master/01_presentations/02_eric_normandeau_pca_lda_random_forest_2015-01-27/01_scripts)
 
 - **10 février** - François-Oliver Gagnon-Hébert (Équipe de Nadia Aubin-Horth) : Optimisation d'assemblage *de novo* [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/03_francois-olivier_hebert_optimisation_rnaseq/FOH.club-bif.100215.pdf)
