@@ -25,6 +25,10 @@ bioinformatique fondamentale (e.g. programmation, algorithmique) qu'appliquée
 
 ## Présntations, ateliers et discussions
 ### 2016
+- **24 mai** - Stéphane Larose (Support bioinformatique de l'IBIS) : Système de soumission de tâches - De SGE vers SLURM [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/14_stephane_larose_slurm/stephane_larose_slurm.pdf)
+
+- **26 avril** - Luca Freschi (Équipe de Roger Lévesque) : L'art de rechercher et de comparer des séquences biologiques [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/13_luca_freschi_blast_alternatives/luca_freschi_blast_alternatives.pdf)
+
 - **29 mars** - Julie Jeukens (Équipe de Roger Lévesque) : La genèse d’un pipeline d’assemblage de génomes 
 bactériens [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/12_julie_jeukens_genome_assembly/julie_jeukens_genome_assembly.pdf)
 
