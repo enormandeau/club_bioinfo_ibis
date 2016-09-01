@@ -23,7 +23,7 @@ bioinformatique fondamentale (e.g. programmation, algorithmique) qu'appliquée
 - Matériel en ligne
 - [Exemples de sujets de présentations](https://github.com/enormandeau/club_bioinfo_ibis/blob/master/01_presentations/idees_pour_presentations.md)
 
-## Présntations, ateliers et discussions
+## Présentations, ateliers et discussions
 ### 2016
 - **24 mai** - Stéphane Larose (Support bioinformatique de l'IBIS) : Système de soumission de tâches - De SGE vers SLURM [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/14_stephane_larose_slurm/stephane_larose_slurm.pdf)
 
