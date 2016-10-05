@@ -25,7 +25,7 @@ bioinformatique fondamentale (e.g. programmation, algorithmique) qu'appliquée
 
 ## Présentations, ateliers et discussions
 ### 2016
-- **4 octobre** - Eric Normandeau (Équipe de Louis Bernatchez) : Gestion de libraries Python avec Conda [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/02_eric_normandeau_condaatelier_conda_eric_normandeau.pdf)
+- **4 octobre** - Eric Normandeau (Équipe de Louis Bernatchez) : Gestion de libraries Python avec Conda [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/03_ateliers/02_eric_normandeau_conda/atelier_conda_eric_normandeau.pdf)
 
 - **24 mai** - Stéphane Larose (Support bioinformatique de l'IBIS) : Système de soumission de tâches - De SGE vers SLURM [Présentation](https://github.com/enormandeau/club_bioinfo_ibis/raw/master/01_presentations/14_stephane_larose_slurm/stephane_larose_slurm.pdf)
 
