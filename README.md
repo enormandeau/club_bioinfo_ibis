@@ -1,5 +1,9 @@
 ![LOGO](https://raw.githubusercontent.com/enormandeau/club_bioinfo_ibis/master/00_archive/images/logo_temporaire_club_bioinfo_ibis.png)
 
+## Note
+Cette page est une archive des activités entre 2014 et 2016 du Club Bioinfo IBIS
+qui a été dissolu en 2019.
+
 ## Objectifs
 Le Club Bioinfo IBIS a pour mission de promouvoir le partage de connaissances
 bioinformatique entre les équipes de recherche de l'Institut de Biologie
